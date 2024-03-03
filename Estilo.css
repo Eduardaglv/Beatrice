@@ -1,0 +1,32 @@
+body {
+  background-image: url("sparklebackground.gif");
+}
+a:hover {
+  background-color: #cbc9cc;
+}
+h1 {
+  color: #5e4659;
+}
+h2 {
+  color: #5e4659;
+}
+p {
+  font-size: 20px;
+}
+h3 {
+  text-align: center;
+  color: #b5838d;
+}
+a {
+text-decoration:none; 
+}
+.article {
+  border: aqua 6px groove;
+  border-color: #a4cac5;
+  height: 660px;
+  width: 660px;
+  margin: auto;
+  padding:30px;
+  background-color: #f1dac4;
+  margin-top: 1px;
+}
